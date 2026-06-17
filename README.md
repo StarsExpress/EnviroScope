@@ -1,6 +1,6 @@
 # 🌏EnviroScope
 
-### [CS 7650 Natural Language Course Project](https://cocoxu.github.io/CS7650_fall2025/)
+### [🔠 CS 7650 Natural Language Course Project](https://cocoxu.github.io/CS7650_fall2025/)
 
 
 ### 📑 Project Description
