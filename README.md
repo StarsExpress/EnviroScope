@@ -1,10 +1,14 @@
-# 🌏 Environmental Issues Extractor
+# 🌏EnviroScope
 
-## 📑 Project Description
+### [CS 7650 Natural Language Course Project](https://cocoxu.github.io/CS7650_fall2025/)
+
+
+### 📑 Project Description
 Supervised fine-tuned LLM that detects and quantifies environment issues from 10,000+ environmental article titles.
 
-## 📦 Distillation LLMs
-### 👩🏻‍🏫 Selected Teacher: Qwen/Qwen3-4B-Instruct-2507
+
+### 📦 Distillation LLMs
+#### 👩🏻‍🏫 Selected Teacher: Qwen/Qwen3-4B-Instruct-2507
 **https://huggingface.co/Qwen/Qwen3-4B-Instruct-2507**
 
 ![qwen_4b_overview.png](images/qwen_4b_overview.png)
@@ -12,7 +16,7 @@ Supervised fine-tuned LLM that detects and quantifies environment issues from 10
 Send 10,000+ environmental article titles to the teacher LLM,
 letting it extract and quantify environmental issues and save all results.
 
-### 👨🏻‍🎓 Selected Student: Qwen/Qwen2.5-3B-Instruct
+#### 👨🏻‍🎓 Selected Student: Qwen/Qwen2.5-3B-Instruct
 **https://huggingface.co/Qwen/Qwen2.5-3B-Instruct**
 
 ![qwen_3b_overview.png](images/qwen_3b_overview.png)
@@ -20,12 +24,14 @@ letting it extract and quantify environmental issues and save all results.
 Split 80% of the teacher's extracted and quantified issues to fine-tune the student LLM,
 and 20% for the evaluation on student LLM.
 
-## 📊 Evaluation Metrics
-#### MAE: 0.004736221986196294
-#### RMSE: 0.035369152172009685
-#### Total samples: 2187
 
-## 📲 Example Issues Extraction
+### 📊 Evaluation Metrics
+##### MAE: 0.004736221986196294
+##### RMSE: 0.035369152172009685
+##### Total samples: 2187
+
+
+### 📲 Example Issues Extraction
 
 ```json
 {
