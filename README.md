@@ -5,7 +5,7 @@
 ### 🏁 Originally This Repo
 Was for Georgia Tech's [🔠 CS 7650 Natural Language Course Project.](https://cocoxu.github.io/CS7650_fall2025/)
 
-[The version submitted at the end of Fall 2025.](https://github.com/StarsExpress/EcoTeller/tree/v1-fall-2025-submission)
+[The version submitted at the end of Fall 2025.](https://github.com/StarsExpress/EcoTeller/tree/v1.0-fall-2025-submission)
 
 ---
 
