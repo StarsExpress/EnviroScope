@@ -1,6 +1,9 @@
-# 🌏EnviroScope
+# 🌏EcoTeller
 
-### [🔠 CS 7650 Natural Language Course Project](https://cocoxu.github.io/CS7650_fall2025/)
+### 🏁 Originally This Repo
+Was for Georgia Tech's [🔠 CS 7650 Natural Language Course Project.](https://cocoxu.github.io/CS7650_fall2025/)
+
+[The version submitted at the end of Fall 2025.](https://github.com/StarsExpress/EcoTeller/tree/v1-fall-2025-submission)
 
 
 ### 📑 Project Description
@@ -32,7 +35,6 @@ and 20% for the evaluation on student LLM.
 
 
 ### 📲 Example Issues Extraction
-
 ```json
 {
   "title": "Carbon emissions from England's roads plan '100 times greater than government claims'",
