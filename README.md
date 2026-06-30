@@ -1,14 +1,18 @@
 # 🌏EcoTeller
 
+---
+
 ### 🏁 Originally This Repo
 Was for Georgia Tech's [🔠 CS 7650 Natural Language Course Project.](https://cocoxu.github.io/CS7650_fall2025/)
 
 [The version submitted at the end of Fall 2025.](https://github.com/StarsExpress/EcoTeller/tree/v1-fall-2025-submission)
 
+---
 
 ### 📑 Project Description
 Supervised fine-tuned LLM that detects and quantifies environment issues from 10,000+ environmental article titles.
 
+---
 
 ### 📦 Distillation LLMs
 #### 👩🏻‍🏫 Selected Teacher: Qwen/Qwen3-4B-Instruct-2507
@@ -27,12 +31,14 @@ letting it extract and quantify environmental issues and save all results.
 Split 80% of the teacher's extracted and quantified issues to fine-tune the student LLM,
 and 20% for the evaluation on student LLM.
 
+---
 
 ### 📊 Evaluation Metrics
 ##### MAE: 0.004736221986196294
 ##### RMSE: 0.035369152172009685
 ##### Total samples: 2187
 
+---
 
 ### 📲 Example Issues Extraction
 ```json
